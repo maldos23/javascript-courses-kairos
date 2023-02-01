@@ -37,7 +37,7 @@ app
   .post("/paises", (req, res) => {
     const nuevoPais = req.body;
 
-    if (!nuevoPais?.nombre || !nuevoPais?.capital) {
+    if (!nuevoPais.nombre || !nuevoPais.capital) {
       res.status(400).json({ message: "Error en el formato" });
     } else {
       countries[nuevoPais.nombre] = {};
