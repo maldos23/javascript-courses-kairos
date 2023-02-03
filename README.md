@@ -36,6 +36,19 @@ _Ambientes usados:_
 2. Instalar Visual studio code desde [Aqui](https://code.visualstudio.com/download).
 3. Y lo mas importante tener ❤ **!!Muchas ganas de aprender algo nuevo!!** ❤.
 
+### 📝 Tarea
+  1. En base a los ejecicios del commit [@41f5f61b6eb856a8573444397278fd7d0b1249a8](https://github.com/maldos23/javascript-courses-kairos/tree/41f5f61b6eb856a8573444397278fd7d0b1249a8) realizar la integracion de su servidor nodeJS con su front en LIT unicamente el metodo **GET**.
+  
+  Recuerdes subirlo a su Branch correspondiente segun su nombre por ejemeplo:
+  ```cmd
+    git switch NOMBRE_DE_BRANCH
+  ```
+  
+  Enviar cambios:
+  ```cmd
+    git push NOMBRE_DE_BRANCH_ORIGEN origin/SU_NOMBRE
+  ```
+
 ## 👻 Persona quienes forman este proyecto
 
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
