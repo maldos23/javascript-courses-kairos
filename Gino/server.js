@@ -1,3 +1,4 @@
+const cors = require("cors");
 const express = require("express");
 const moviesRoutes = require("./routes/movies.route");
 //App
@@ -7,6 +8,7 @@ const app = express();
 const PORT = 3000 || process.env.PORT;
 
 //Usar Json
+app.use(cors());
 app.use(express.json());
 app.use(function handleErrors(err, req, res, next) {
   if (err) {
