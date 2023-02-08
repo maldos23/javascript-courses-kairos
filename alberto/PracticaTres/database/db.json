@@ -1,0 +1,32 @@
+{
+  "recetario": [
+    {
+      "id": 1,
+      "descripcion": "Pastel",
+      "sabor": "Vainilla",
+      "topico": "Nuez",
+      "precio": 23.4
+    },
+    {
+      "descripcion": "Gelatina",
+      "sabor": "Vainilla",
+      "topico": "Nuez",
+      "precio": 89,
+      "id": "f5b6f587-e052-4aa8-95a7-f0f065e5a805"
+    },
+    {
+      "descripcion": "Duraznos",
+      "sabor": "Fresa",
+      "topico": "Amendra",
+      "precio": "55",
+      "id": "a70362e3-7eab-42bb-897c-c4821ba93faf"
+    },
+    {
+      "descripcion": "Pay",
+      "sabor": "Manzana",
+      "topico": "Queso",
+      "precio": "33",
+      "id": "5fad5650-476d-4554-8d67-d1b3d1347d19"
+    }
+  ]
+}
